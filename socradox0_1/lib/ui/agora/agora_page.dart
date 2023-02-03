@@ -17,8 +17,8 @@ class _AgoraPageState extends State<AgoraPage>{
 
   final AgoraClient client = AgoraClient(
     agoraConnectionData: AgoraConnectionData(
-      appId: "ef1e7d903efa4fddad4fb3ea961744b0",
-      channelName: "test",
+      appId: "*******",
+      channelName: "***",
     ),
   );
 
